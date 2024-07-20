@@ -1,4 +1,4 @@
-# sobre o projeto boleto_cnab_api
+# sobre o projeto boleto_cnab_api - new tryiong to add comments about how to change the code to allow external users
 
 O projeto de gestão de boletos, remessas e retornos bancarios https://github.com/kivanio/brcobranca é muito bem feito, bem testado e mantido.
 
